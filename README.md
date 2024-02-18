@@ -1,3 +1,12 @@
 
+STEP 1:
+  Open VS code
+  Install necessary libraries
 
-![alt text](ss.png)
+
+
+
+  
+Step 2:
+  Run the app.py 
+  you can see output of the project
